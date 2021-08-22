@@ -21,11 +21,11 @@ placed pieces of corn.
 
 Controls:
 
-':' - Menu
-'w' - Move up
-'a' - Move left
-'s' - Move down
-'d' - Move right
+- ':' - Menu
+- 'w' - Move up
+- 'a' - Move left
+- 's' - Move down
+- 'd' - Move right
 
 # Credits
 
