@@ -55,6 +55,8 @@ Finally dead-ends are removed to increase the sparseness of the maze. Dead-ends 
 the pathway graph and they are incrementally removed, retracting dead-end corridors back a step at
 a time. The number of retraction steps is fixed and represents the volume of dead-ends desired.
 
+https://user-images.githubusercontent.com/25724314/131328917-96c014e3-d8fb-470e-a706-c72158541d9d.mp4
+
 # Running
 
 After compilation, run the `Main.java` file located in the `byow/Core` directory.
